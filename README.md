@@ -34,7 +34,6 @@ O projeto foi desenvolvido do zero (sem uso de frameworks pesados de interface),
 
 Gostou do projeto ou quer trocar uma ideia? Me encontre nas redes:
 
-- **Email:** eugeniodevsec@gmail.com
 - **LinkedIn:** Eugenio Santana
 - **GitHub:** Mr-erd
 
